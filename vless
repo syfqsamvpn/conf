@@ -1,0 +1,1 @@
+vless://tukar_userid@who.int:443?path=wss://who.int/v2ray&security=tls&encryption=none&type=ws&host=${hostname}&sni=who.int#MAXISNOHUNT
