@@ -2,7 +2,7 @@ soon_update
 vless://tukar_userid@cf.ctechdidik.me:80?path=/vlessws%26encryption=none%26host=hostname%26type=ws#DIGIBOOSTER
 vless://tukar_userid@who.int:443?path=wss://who.int/vlessws%26security=tls%26encryption=none%26type=ws%26host=hostname%26sni=who.int#MAXISNOHUNT
 vless://tukar_userid@onlinepayment.celcom.com.my:443?path=wss://onlinepayment.celcom.com.my/vlessws%26security=tls%26encryption=none%26type=ws%26host=hostname%26sni=onlinepayment.celcom.com.my#CELCOMNOLANGGAN
-vless://6103e579-17ff-4b77-aaaf-1f14b92ac39b@dns.google.hostname:80?path=%2Fvlessws%26security=none%26encryption=none%26host=pay-dcb.u.com.my%26type=ws#UMOBILENOLANGGAN
+vless://tukar_userid@dns.google.hostname:80?path=%2Fvlessws%26security=none%26encryption=none%26host=pay-dcb.u.com.my%26type=ws#UMOBILENOLANGGAN
 soon_update
 vmess://eyJhZGQiOiJjZi5jdGVjaGRpZGlrLm1lIiwiYWlkIjoiMCIsImhvc3QiOiJ0dWthcl9ob3N0bmFtZSIsImlkIjoidHVrYXJfdXNlcmlkIiwibmV0Ijoid3MiLCJwYXRoIjoiXC94cmF5d3MiLCJwb3J0IjoiODAiLCJwcyI6IkRJR0kiLCJ0bHMiOiJub25lIiwic25pIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJ3aG8uaW50IiwiYWlkIjoiMCIsImhvc3QiOiJ0dWthcl9ob3N0bmFtZSIsImlkIjoidHVrYXJfdXNlcmlkIiwibmV0Ijoid3MiLCJwYXRoIjoid3NzOlwvXC93aG8uaW50XC94cmF5d3MiLCJwb3J0IjoiODAiLCJwcyI6Ik1BWElTIiwidGxzIjoibm9uZSIsInNuaSI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
