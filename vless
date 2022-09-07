@@ -1,0 +1,5 @@
+YESC soon_update
+DIGIC vless://tukar_userid@cf.ctechdidik.me:80?path=/vlessws%26encryption=none%26host=hostname%26type=ws#DIGIBOOSTER
+MAXISC vless://tukar_userid@who.int:443?path=wss://who.int/vlessws%26security=tls%26encryption=none%26type=ws%26host=hostname%26sni=who.int#MAXISNOHUNT
+CELCOMC vless://tukar_userid@onlinepayment.celcom.com.my:443?path=wss://onlinepayment.celcom.com.my/vlessws%26security=tls%26encryption=none%26type=ws%26host=hostname%26sni=onlinepayment.celcom.com.my#CELCOMNOLANGGAN
+UMOC vless://tukar_userid@dns.google.hostname:80?path=%2Fvlessws%26security=none%26encryption=none%26host=pay-dcb.u.com.my%26type=ws#UMOBILENOLANGGAN
